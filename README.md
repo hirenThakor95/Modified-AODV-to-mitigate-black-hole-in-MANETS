@@ -5,3 +5,5 @@
 The first simulation is for the blackhole attack in the controlled environment. To run this simulation you have to type 'ns' command and the filename which is blackhole.tcl. 
 
 The measure that used in this project are throughput, delay and pdr. 
+
+I have also include the final proejct report. please use this as a reference. Do not copy and paste it into your work. Thank you. 
